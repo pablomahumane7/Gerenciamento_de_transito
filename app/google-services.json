@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948187554383",
+    "project_id": "gerenciamento-de-transito",
+    "storage_bucket": "gerenciamento-de-transito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948187554383:android:50ac9f06d2b2a54afbc03a",
+        "android_client_info": {
+          "package_name": "com.example.gerenciamento_de_transito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948187554383-qamf32n46bji8lph63dhp918ea25enol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmNM2uk7DflBofsWLJCzri29xqbE0CWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948187554383-qamf32n46bji8lph63dhp918ea25enol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
