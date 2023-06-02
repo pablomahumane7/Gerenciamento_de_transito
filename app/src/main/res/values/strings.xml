@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Gerenciamento_de_transito</string>
 
+    <string name="textStart">Bem-vindo ao nosso sistema de gerenciamento de transito, onde fluidez e seguranca se encontram.</string>
+
     <string name="entrar">Entrar</string>
     <string name="text_cadastro">Crie uma conta</string>
     <string name="title_cadastro">Cadastre-se</string>
