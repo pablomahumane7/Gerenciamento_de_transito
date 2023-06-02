@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Gerenciamento_de_transito</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta</string>
+    <string name="title_cadastro">Cadastre-se</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home">Home</string>
+    <string name="fav">Favoritos</string>
+    <string name="share">Share</string>
+    <string name="logout">LogOut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home</string>
+    <string name="favoritos_fragment">Favoritos</string>
 </resources>
