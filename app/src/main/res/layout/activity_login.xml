@@ -26,7 +26,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imagLogin" />
 
     <EditText
-        android:id="@+id/edit_email"
+        android:id="@+id/edit_emailLogin"
         style="@style/Edit_Text"
         android:hint="Email "
         android:drawableRight="@drawable/ic_email"
@@ -37,23 +37,23 @@
         />
 
     <EditText
-        android:id="@+id/edit_senha"
+        android:id="@+id/edit_senhaLogin"
         style="@style/Edit_Text"
         android:drawableRight="@drawable/ic_eye"
         android:inputType="numberPassword"
         android:hint="Senha "
         app:layout_constraintEnd_toEndOf="@+id/containerComponents"
         app:layout_constraintStart_toStartOf="@+id/containerComponents"
-        app:layout_constraintTop_toBottomOf="@+id/edit_email"
+        app:layout_constraintTop_toBottomOf="@+id/edit_emailLogin"
         />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_entrar"
         style="@style/Button"
+        android:onClick="validarAutenticao"
         android:text="@string/entrar"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/edit_senha"
-        />
+        app:layout_constraintTop_toBottomOf="@+id/edit_senhaLogin" />
 
     <ProgressBar
         android:id="@+id/progressbar"
