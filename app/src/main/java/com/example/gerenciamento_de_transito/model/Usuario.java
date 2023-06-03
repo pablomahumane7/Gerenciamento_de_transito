@@ -1,4 +1,4 @@
-package com.example.gerenciamento_de_transito;
+package com.example.gerenciamento_de_transito.model;
 
 public class Usuario {
 
